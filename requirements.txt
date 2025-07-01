@@ -1,4 +1,5 @@
 ipykernel
+setuptools
 pandas
 numpy
 matplotlib
